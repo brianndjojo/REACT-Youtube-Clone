@@ -10,7 +10,12 @@
 - You are able to see specific Channel Information from Youtube..
 - You are able to search for Videos using the fully functioning Search Bar
 
-Technology Stack:
-- REACT Native 
-- MaterialUI
-- RapidAPI
+## Technology Stack:
+- **REACT Native
+  - used to efficiently build the interactive Youtube user interface
+  
+- **MaterialUI
+  - framework that provides React components out-of-the-box and follows Google's Material Design launched
+  
+- **RapidAPI
+  - used to find, test, and connect to the Youtube API
