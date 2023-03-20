@@ -1,2 +1,8 @@
-# REACT---Youtube-Clone
-A simple Youtube Clone made with REACT Native, MaterialUI and RapidAPI
+# REACT-Youtube-Clone
+
+This is a Youtube Clone with a UI Designed inspired by Youtube.
+
+Technology Stack:
+- REACT Native 
+- MaterialUI
+- RapidAPI
