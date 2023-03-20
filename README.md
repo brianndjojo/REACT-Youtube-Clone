@@ -11,11 +11,11 @@
 - You are able to search for Videos using the fully functioning Search Bar
 
 ## Technology Stack:
-- **REACT Native
+- **REACT Native**
   - used to efficiently build the interactive Youtube user interface
   
-- **MaterialUI
+- **MaterialUI**
   - framework that provides React components out-of-the-box and follows Google's Material Design launched
   
-- **RapidAPI
+- **RapidAPI**
   - used to find, test, and connect to the Youtube API
